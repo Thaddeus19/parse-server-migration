@@ -1,0 +1,7 @@
+node_modules
+/build
+.env
+logs/parse-server.err.2022-12-30
+logs/parse-server.info.2022-12-30
+src/.DS_Store
+cloud/streams.json
